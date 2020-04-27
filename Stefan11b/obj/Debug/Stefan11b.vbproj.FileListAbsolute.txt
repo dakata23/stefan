@@ -1,0 +1,12 @@
+B:\Stefan11b\bin\Debug\Stefan11b.exe.config
+B:\Stefan11b\bin\Debug\Stefan11b.exe
+B:\Stefan11b\bin\Debug\Stefan11b.pdb
+B:\Stefan11b\bin\Debug\Stefan11b.xml
+B:\Stefan11b\obj\Debug\Stefan11b.vbprojAssemblyReference.cache
+B:\Stefan11b\obj\Debug\Stefan11b.Form1.resources
+B:\Stefan11b\obj\Debug\Stefan11b.Resources.resources
+B:\Stefan11b\obj\Debug\Stefan11b.vbproj.GenerateResource.cache
+B:\Stefan11b\obj\Debug\Stefan11b.vbproj.CoreCompileInputs.cache
+B:\Stefan11b\obj\Debug\Stefan11b.exe
+B:\Stefan11b\obj\Debug\Stefan11b.xml
+B:\Stefan11b\obj\Debug\Stefan11b.pdb
